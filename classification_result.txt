@@ -1,0 +1,7 @@
+Image: 6.jpg
+Predicted category: Malignant
+
+Model scores:
+Benign: 7.00%
+Malignant: 93.00%
+Normal: 0.00%
